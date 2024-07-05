@@ -1,0 +1,36 @@
+.your-page{
+    width: 100%;
+   
+    margin: 40px auto;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.accordion-item{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 25px;
+ height: 90px;
+ width: 80%;
+ background-color: whitesmoke;
+ flex-direction: column;
+ padding: 20px;
+}
+
+.accordion-title{
+    height: 86px;
+    width: 879px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+.accordion-content{
+    font-size:14px ;
+}
